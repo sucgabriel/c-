@@ -1,0 +1,1 @@
+target_sources(simulation PUBLIC particules.cxx part_decorator.cxx grav_decorator.cxx lennard_decorator.cxx abstract_part.cxx pot_gravitationnelle.cxx  pot_reflexive.cxx)
